@@ -1,0 +1,1 @@
+EasyInstaller = https://github.com/Kyiro/Fortnite-ManifestsArchive/releases

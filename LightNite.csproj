@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>3621_lampblob.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="3621_lampblob.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="3621_lampblob.png" />
+  </ItemGroup>
+
+</Project>
