@@ -33,7 +33,7 @@ namespace LightNite
 
 		private void DashBoard_loaded(object sender, RoutedEventArgs e)
 		{
-			LogBR.Text = "Welcome to LightNite. Credits to Fexor for the Launcher. Credits to AuroraFN For the backend.";
+			LogBR.Text = "Welcome to LightNite. Credits to Fexor for the Launcher. Credits to AuroraFN For the backend and rift for ingame!.";
 		}
 
 		private void Button_Click(object sender, RoutedEventArgs e)
